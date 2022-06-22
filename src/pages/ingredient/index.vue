@@ -33,7 +33,7 @@ const compatibleIngredients = computed(() =>
 ///
 
 // shortcuts
-const useSearch = (e) => {
+const useSearch = (e: KeyboardEvent) => {
   e.preventDefault()
   filterRef.value?.focus()
   filter.value = ''
