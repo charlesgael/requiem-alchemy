@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# antfu/vitesse
+.DS_Store
+.vite-ssg-dist
+.vite-ssg-temp
+*.local
+dist
+dist-ssr
+node_modules
+.idea/
+*.log

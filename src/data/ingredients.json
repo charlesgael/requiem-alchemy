@@ -1,0 +1,608 @@
+{
+  "Abeccan Longfin": [
+    "Cryolysis",
+    "Ably Sneaking",
+    "Toxicity",
+    "Ably Restoration"
+  ],
+  "Ancestor Moth Wing": [
+    "Exhaustion",
+    "Alby Conjuration",
+    "Damage Magicka Regen",
+    "Spellpower"
+  ],
+  "Bee": [
+    "Stamina",
+    "Enervation",
+    "Spiritedness",
+    "Electrolysis"
+  ],
+  "Beehive Husk": [
+    "Poison Resistance",
+    "Stoneskin",
+    "Ably Sneaking",
+    "Ably Destroying"
+  ],
+  "Bleeding Crown": [
+    "Pyrolysis",
+    "Ably Blocking",
+    "Toxicity",
+    "Spellshield"
+  ],
+  "Blisterwort": [
+    "Exhaustion",
+    "Frenzy",
+    "Healing",
+    "Spiritedness"
+  ],
+  "Blue Butterfly Wing": [
+    "Exhaustion",
+    "Ably Conjuration",
+    "Damage Magicka Regen",
+    "Ably Deceiving"
+  ],
+  "Blue Dartwing": [
+    "Shockbane",
+    "Ably Pickpocketing",
+    "Healing",
+    "Fear"
+  ],
+  "Blue Glitterdust": [
+    "Exhaustion",
+    "Vitality",
+    "Waterbreathing",
+    "Poison Resistance"
+  ],
+  "Blue Mountain Flower": [
+    "Healing",
+    "Ably Conjuration",
+    "Rigidity",
+    "Damage Magicka Regen"
+  ],
+  "Bone Meal": [
+    "Exhaustion",
+    "Flamebane",
+    "Ably Conjuration",
+    "Enervation"
+  ],
+  "Briar Heart": [
+    "Magicka",
+    "Ably Blocking",
+    "Paralysis",
+    "Spellpower"
+  ],
+  "Butterfly Wing": [
+    "Healing",
+    "Fortify Barter",
+    "Effeteness",
+    "Spellbane"
+  ],
+  "Canis Root": [
+    "Exhaustion",
+    "Ably Fighting",
+    "Ably Aiming",
+    "Affliction"
+  ],
+  "Charred Skeever Hide": [
+    "Stamina",
+    "Poison Resistance",
+    "Waterbreathing",
+    "Healing"
+  ],
+  "Chaurus Eggs": [
+    "Toxicity",
+    "Fortify Stamina",
+    "Spellbane",
+    "Invisibility"
+  ],
+  "Chaurus Hunter Antennae": [
+    "Exhaustion",
+    "Alby Conjuration",
+    "Damage Magicka Regen",
+    "Spellpower"
+  ],
+  "Chicken's Egg": [
+    "Spellshield",
+    "Damage Magicka Regen",
+    "Waterbreathing",
+    "Effeteness"
+  ],
+  "Claws": [
+    "Stamina",
+    "Stoneskin",
+    "Spiritedness",
+    "Damage Magicka Regen"
+  ],
+  "Creep Cluster": [
+    "Magicka",
+    "Damage Stamina Regen",
+    "Featherweight",
+    "Arcane Disruption"
+  ],
+  "Crimson Nirnroot": [
+    "Affliction",
+    "Exhaustion",
+    "Invisibility",
+    "Spellshield"
+  ],
+  "Cyrodilic Spadetail": [
+    "Exhaustion",
+    "Ably Restoration",
+    "Fear",
+    "Ravage Health"
+  ],
+  "Deadra Heart": [
+    "Decay",
+    "Health",
+    "Magicka",
+    "Stamina"
+  ],
+  "Deathbell": [
+    "Affliction",
+    "Enervation",
+    "Tardiness",
+    "Toxicity"
+  ],
+  "Dragon's Tongue": [
+    "Flamebane",
+    "Fortify Barter",
+    "Ably Deceiving",
+    "Ably Beserking"
+  ],
+  "Dwarven Oil": [
+    "Arcane Disruption",
+    "Ably Deceiving",
+    "Spellflux",
+    "Magicka"
+  ],
+  "Ectoplasm": [
+    "Magicka",
+    "Ably Destroying",
+    "Spellpower",
+    "Affliction"
+  ],
+  "Elves Ears": [
+    "Magicka",
+    "Ably Aiming",
+    "Cryolysis",
+    "Flamebane"
+  ],
+  "Falmer Ear": [
+    "Affliction",
+    "Frenzy",
+    "Poison Resistance",
+    "Ably Lockpicking"
+  ],
+  "Fire Salts": [
+    "Cryolysis",
+    "Flamebane",
+    "Magicka",
+    "Spellflux"
+  ],
+  "Fly Amanita": [
+    "Flamebane",
+    "Ably Beserking",
+    "Frenzy",
+    "Spiritedness"
+  ],
+  "Frost Mirriam": [
+    "Icebane",
+    "Ably Sneaking",
+    "Spellfreeze",
+    "Damage Stamina Regen"
+  ],
+  "Frost Salts": [
+    "Pyrolysis",
+    "Icebane",
+    "Magicka",
+    "Ably Conjuration"
+  ],
+  "Garlic": [
+    "Poison Resistance",
+    "Fortify Stamina",
+    "Spellflux",
+    "Regeneration"
+  ],
+  "Giant Lichen": [
+    "Electrolysis",
+    "Ravage Health",
+    "Toxicity",
+    "Magicka"
+  ],
+  "Giant's Toe": [
+    "Exhaustion",
+    "Rigidity",
+    "Featherweight",
+    "Damage Stamina Regen"
+  ],
+  "Gleamblossom": [
+    "Spellshield",
+    "Fear",
+    "Regeneration",
+    "Paralysis"
+  ],
+  "Glow Dust": [
+    "Spellbane",
+    "Damage Magicka Regen",
+    "Ably Destroying",
+    "Shockbane"
+  ],
+  "Glowing Mushroom": [
+    "Shockbane",
+    "Ably Destroying",
+    "Fortify Stamina",
+    "Rigidity"
+  ],
+  "Grass Pod": [
+    "Poison Resistance",
+    "Spellfreeze",
+    "Fortify Alteration",
+    "Magicka"
+  ],
+  "Hagraven Claw": [
+    "Spellshield",
+    "Spellfade",
+    "Ably Deceiving",
+    "Soulreaping"
+  ],
+  "Hagraven Feather": [
+    "Spellbane",
+    "Ably Conjuration",
+    "Frenzy",
+    "Electrolysis"
+  ],
+  "Hanging Moss": [
+    "Spellbane",
+    "Rigidity",
+    "Damage Magicka Regen",
+    "Ably Fighting"
+  ],
+  "Hawk Beak": [
+    "Stamina",
+    "Icebane",
+    "Featherweight",
+    "Shockbane"
+  ],
+  "Hawk Feathers": [
+    "Stoneskin",
+    "Vitality",
+    "Ably Fighting",
+    "Ably Sneaking"
+  ],
+  "Hawk's Egg": [
+    "Spellshield",
+    "Damage Magicka Regen",
+    "Waterbreathing",
+    "Effeteness"
+  ],
+  "Heart": [
+    "Affliction",
+    "Spellbane",
+    "Damage Magicka Regen",
+    "Frenzy"
+  ],
+  "Histcarp": [
+    "Stamina",
+    "Spellpower",
+    "Damage Stamina Regen",
+    "Waterbreathing"
+  ],
+  "Honeycomb": [
+    "Stamina",
+    "Ably Blocking",
+    "Stoneskin",
+    "Enervation"
+  ],
+  "Human Flesh": [
+    "Affliction",
+    "Paralysis",
+    "Magicka",
+    "Ably Sneaking"
+  ],
+  "Ice Wraith Teeth": [
+    "Cryolysis",
+    "Soulreaping",
+    "Invisibility",
+    "Pyrolysis"
+  ],
+  "Imp Stool": [
+    "Affliction",
+    "Decay",
+    "Featherweight",
+    "Healing"
+  ],
+  "Jarrin Root": [
+    "Affliction",
+    "Spellbane",
+    "Exhaustion",
+    "Damage Magicka Regen"
+  ],
+  "Jazbay Grapes": [
+    "Arcane Disruption",
+    "Spellpower",
+    "Spellflux",
+    "Ravage Health"
+  ],
+  "Juniper Berries": [
+    "Pyrolysis",
+    "Ably Aiming",
+    "Regeneration",
+    "Damage Stamina Regen"
+  ],
+  "Large Antlers": [
+    "Stamina",
+    "Fortify Stamina",
+    "Tardiness",
+    "Damage Stamina Regen"
+  ],
+  "Lavender": [
+    "Spellshield",
+    "Fortify Stamina",
+    "Spellfreeze",
+    "Ably Conjuration"
+  ],
+  "Luna Moth Wing": [
+    "Spellbane",
+    "Stoneskin",
+    "Regeneration",
+    "Invisibility"
+  ],
+  "Moon Sugar": [
+    "Pyrolysis",
+    "Icebane",
+    "Magicka",
+    "Spellflux"
+  ],
+  "Mora Tapinella": [
+    "Magicka",
+    "Decay",
+    "Spiritedness",
+    "Ably Deceiving"
+  ],
+  "Mudcrab Chitin": [
+    "Stamina",
+    "Poison Resistance",
+    "Shockbane",
+    "Flamebane"
+  ],
+  "Namira's Rot": [
+    "Spellbane",
+    "Ably Lockpicking",
+    "Fear",
+    "Regeneration"
+  ],
+  "Nightshade": [
+    "Affliction",
+    "Damage Magicka Regen",
+    "Effeteness",
+    "Ably Destroying"
+  ],
+  "Nirnroot": [
+    "Affliction",
+    "Exhaustion",
+    "Invisibility",
+    "Spellshield"
+  ],
+  "Nordic Barnacle": [
+    "Spellbane",
+    "Waterbreathing",
+    "Regeneration",
+    "Ably Pickpocketing"
+  ],
+  "Orange Dartwing": [
+    "Stamina",
+    "Spellfreeze",
+    "Ably Pickpocketing",
+    "Decay"
+  ],
+  "Pearl": [
+    "Stamina",
+    "Ably Blocking",
+    "Magicka",
+    "Shockbane"
+  ],
+  "Pine Thrush Egg": [
+    "Stamina",
+    "Ably Lockpicking",
+    "Toxicity",
+    "Shockbane"
+  ],
+  "Poison Bloom": [
+    "Affliction",
+    "Tardiness",
+    "Featherweight",
+    "Fear"
+  ],
+  "Powdered Mammoth Tusk": [
+    "Stamina",
+    "Ably Sneaking",
+    "Pyrolysis",
+    "Fear"
+  ],
+  "Purple Mountain FLower": [
+    "Stamina",
+    "Ably Sneaking",
+    "Spellfade",
+    "Icebane"
+  ],
+  "Red Glitterdust": [
+    "Affliction",
+    "Featherweight",
+    "Magicka",
+    "Exhaustion"
+  ],
+  "Red Mountain Flower": [
+    "Magicka",
+    "Spellfreeze",
+    "Spellpower",
+    "Affliction"
+  ],
+  "River Betty": [
+    "Affliction",
+    "Fortify Alteration",
+    "Tardiness",
+    "Featherweight"
+  ],
+  "Rock Warbler Egg": [
+    "Healing",
+    "Ably Fighting",
+    "Exhaustion",
+    "Arcane Disruption"
+  ],
+  "Sabre Cat Eye": [
+    "Stamina",
+    "Ravage Health",
+    "Spellbane",
+    "Healing"
+  ],
+  "Sabre Cat Tooth": [
+    "Stamina",
+    "Stoneskin",
+    "Fortify Stamina",
+    "Toxicity"
+  ],
+  "Salmon Roe": [
+    "Stamina",
+    "Waterbreathing",
+    "Spellpower",
+    "Spellflux"
+  ],
+  "Salt": [
+    "Arcane Disruption",
+    "Ably Restoration",
+    "Tardiness",
+    "Spellflux"
+  ],
+  "Scaly Pholiota": [
+    "Arcane Disruption",
+    "Ably Deceiving",
+    "Spiritedness",
+    "Featherweight"
+  ],
+  "Silverside Perch": [
+    "Stamina",
+    "Damage Stamina Regen",
+    "Ravage Health",
+    "Icebane"
+  ],
+  "Skeever Tail": [
+    "Damage Stamina Regen",
+    "Ravage Health",
+    "Affliction",
+    "Stoneskin"
+  ],
+  "Slaughterfish Egg": [
+    "Poison Resistance",
+    "Ably Pickpocketing",
+    "Decay",
+    "Fortify Stamina"
+  ],
+  "Slaughterfish Scales": [
+    "Icebane",
+    "Decay",
+    "Stoneskin",
+    "Ably Blocking"
+  ],
+  "Small Antlers": [
+    "Toxicity",
+    "Ably Restoration",
+    "Effeteness",
+    "Affliction"
+  ],
+  "Small Pearl": [
+    "Stamina",
+    "Ably Fighting",
+    "Ably Restoration",
+    "Icebane"
+  ],
+  "Snowberries": [
+    "Flamebane",
+    "Spiritedness",
+    "Icebane",
+    "Shockbane"
+  ],
+  "Spider Egg": [
+    "Exhaustion",
+    "Damage Magicka Regen",
+    "Ably Lockpicking",
+    "Ably Aiming"
+  ],
+  "Spriggan Sap": [
+    "Damage Magicka Regen",
+    "Ably Deceiving",
+    "Ably Restoration",
+    "Fortify Alteration"
+  ],
+  "Swamp Fungal Pod": [
+    "Shockbane",
+    "Spellfade",
+    "Affliction",
+    "Healing"
+  ],
+  "Taproot": [
+    "Arcane Disruption",
+    "Ably Deceiving",
+    "Spellflux",
+    "Magicka"
+  ],
+  "Thistle Branch": [
+    "Icebane",
+    "Enervation",
+    "Poison Resistance",
+    "Stoneskin"
+  ],
+  "Torchbug Thorax": [
+    "Stamina",
+    "Spellfade",
+    "Arcane Disruption",
+    "Fortify Stamina"
+  ],
+  "Troll Fat": [
+    "Poison Resistance",
+    "Ably Beserking",
+    "Frenzy",
+    "Affliction"
+  ],
+  "Thundra Cotton": [
+    "Spellshield",
+    "Spellpower",
+    "Ably Blocking",
+    "Fortify Barter"
+  ],
+  "Vampire Dust": [
+    "Sanguinare Vampiris",
+    "Soulreaping",
+    "Invisibility",
+    "Vitality"
+  ],
+  "Void Salts": [
+    "Electrolysis",
+    "Spellshield",
+    "Affliction",
+    "Spellpower"
+  ],
+  "Wheat": [
+    "Healing",
+    "Rigidity",
+    "Damage Stamina Regen",
+    "Spellfade"
+  ],
+  "White Cap": [
+    "Cryolysis",
+    "Stoneskin",
+    "Magicka",
+    "Spellfreeze"
+  ],
+  "Wisp Wrappings": [
+    "Soulreaping",
+    "Ably Destroying",
+    "Featherweight",
+    "Spellshield"
+  ],
+  "Yellow Mountain Flower": [
+    "Poison Resistance",
+    "Alby Restoration",
+    "Rigidity",
+    "Damage Stamina Regen"
+  ]
+}
